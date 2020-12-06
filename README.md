@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub Page🤗🤗
 
-I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 I define myself as a curious learner , designer and developer🤓.
+I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 I define myself as a curious learner , designer and developer😎🤏.
 ### My skills include🍒 - <br/>
 ✔Coding - C/C++; Python;& shell script <br/>
 ✔Database - MySQL,<br/>
