@@ -22,9 +22,9 @@ I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 
 ✔ [PROJECT-FRIDAY]( https://github.com/Rishu-R1111/PROJECT-FRIDAY )
 
 #### `Xamarin Android Apps`
-✔ [Calculator App](LINK ! )
-✔ [Menu Ui ](LINK ! )
-✔ [TicTacToe](LINK ! )
+✔ [Calculator App]( Uploading soon )
+✔ [Menu Ui ]( Uploading soon )
+✔ [TicTacToe]( Uploading soon )
 
 #### `Shell Based `
 ✔ [all_scripts]( https://github.com/Rishu-R1111/all_scripts )
@@ -33,8 +33,8 @@ I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 
 ✔ [UPDATING SOON]( https://github.com/Rishu-R1111/Adobe-xd-Projects )
 
 #### `C/C++ Based Games`
-✔ [Stone Paper Scissor Game]( LINK ! )
-✔ [TicTacToe Game]( LINK ! )
+✔ [Stone Paper Scissor Game](  Uploading soon  )
+✔ [TicTacToe Game](  Uploading soon  )
 
 
 #### For other projects and works including Open-Source contributions feel free to explore my repositories.🧐
@@ -42,7 +42,7 @@ I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 
 
 ### Contacting Me -🤝
 
-You can contact me on [LinkedIn]((LINK ! )or can mail me @ btech15140.19@bitmesra.ac.in
+You can contact me on [LinkedIn](( Uploading soon )or can mail me @ btech15140.19@bitmesra.ac.in
 
 
 My `certificate` can be found at [Certificate]( https://github.com/Rishu-R1111/certificate- )
