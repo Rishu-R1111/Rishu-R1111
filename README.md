@@ -7,7 +7,7 @@ I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 
 ✔Coding - C/C++; Python; & shell script <br/>
 ✔Database - MySQL,<br/>
 ✔Web Developmemt - HTML/CSS; (intermediate)NodeJS; WordPress; <br/>
-✔Machine Learning with python libraries including Keras,Pandas, Requests, NumPy etc.,<br/>
+✔Python libraries including Keras,Pandas, Requests, NumPy etc.,<br/>
 ✔Android Developmemt - Xamarin.<br/>
 ✔Hardware skills - Arduino; Node MCU; RaspberryPi<br/>
 
