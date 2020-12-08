@@ -17,7 +17,7 @@ I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 
 ### Exploring My Works-🧐
 
 #### `Python Based Hacking Tool Kits`
-✔ [Password-Generetor](( https://github.com/Rishu-R1111/Password-Generetor ))
+✔ [Password-Generetor]( https://github.com/Rishu-R1111/Password-Generetor )
 ✔ [Rsploit](( https://github.com/Rishu-R1111/Rsploit ))
 ✔ [PROJECT-FRIDAY](( https://github.com/Rishu-R1111/PROJECT-FRIDAY ))
 
