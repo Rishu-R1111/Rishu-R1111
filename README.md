@@ -45,7 +45,7 @@ I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 
 You can contact me on [LinkedIn]((LINK ! )or can mail me @ btech15140.19@bitmesra.ac.in
 
 
-My `certificate` can be found at [Resume]( https://github.com/Rishu-R1111/certificate- )
+My `certificate` can be found at [Certificate]( https://github.com/Rishu-R1111/certificate- )
 <hr>
 
 # Happy Creating !!😀
