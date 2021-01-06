@@ -2,7 +2,7 @@
 
 ### Welcome to my 😎🤏GitHub Page🤗🤗
 
-I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 I define myself as a curious learner , designer and developer.
+I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 I define myself as a Go-to man, Results-driven, Passionate, Transparent, Charismatic, Disciplined, Courageous, Confident, Skillful, Detail-orientated, Out-of-the-box thinker, Consistent, Versatile Leader, Innovative, Ambitious, Persuasive, Self-aware, Observant, Helpful, Able, Creative, Imaginative, Flexible, Organised, , Curious learner, designer and developer.
 ### My skills include🍒 - <br/>
 
 ✔Database - MySQL <br/>
