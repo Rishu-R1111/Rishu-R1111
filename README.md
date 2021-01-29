@@ -23,6 +23,9 @@ I am RISHU😊, presently a STUDENT at Birla Institues of Technology Patna.🏛 
 ✔ [Rsploit]( https://github.com/Rishu-R1111/Rsploit )
 ✔ [PROJECT-FRIDAY]( https://github.com/Rishu-R1111/PROJECT-FRIDAY )
 
+#### `Python Based Games`
+✔ [SNAKES]( https://github.com/Rishu-R1111/Snakes )
+
 #### `Xamarin Android Apps`
 ✔ [Calculator App]( Uploading soon )
 ✔ [Menu Ui ]( Uploading soon )
