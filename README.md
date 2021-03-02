@@ -11,7 +11,7 @@ I define myself as a Go-to man, Results-driven, Passionate, Transparent, Charism
 ✔Database - MySQL <br/>
 ✔Android Developmemt - Xamarin.<br/>
 ✔Coding - C/C++; Python; & shell script <br/>
-✔Web Developmemt - HTML/CSS; (intermediate)NodeJS, WordPress; <br/>
+✔Web Developmemt - HTML/CSS, BOotstrap; (intermediate)NodeJS, WordPress; <br/>
 ✔Python - libraries including Keras,Pandas, Requests, NumPy etc.,<br/>
 ✔Hardware skills - Arduino; Node MCU; RaspberryPi<br/>
 ✔Designing skills - ADOBE Ps, Lr, Pr, XD, Sketch ..etc.  <br/>
