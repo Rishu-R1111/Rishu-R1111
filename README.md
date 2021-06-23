@@ -6,12 +6,12 @@ I am RISHU😊, presently a STUDENT at Birla Institues of Technology Mesra.🏛
 
 I define myself as a Go-to man, Results-driven, Passionate, Transparent, Charismatic, Disciplined, Courageous, Confident, Skillful, Detail-orientated, Out-of-the-box thinker, Consistent, Versatile Leader, Innovative, Ambitious, Persuasive, Self-aware, Observant, Helpful, Able, Creative, Imaginative, Flexible, Organised, , Curious learner, designer and developer.
 
-### My skills include🍒 - <br/>
+### Ask me About🍒 - <br/>
 
 ✔Database - MySQL <br/>
 ✔Android Developmemt - Xamarin.<br/>
 ✔Coding - C/C++; Python; & shell script <br/>
-✔Web Developmemt - HTML/CSS, Bootstrap; (intermediate)NodeJS, WordPress; <br/>
+✔Web Developmemt - HTML/CSS, Bootstrap; NodeJS, WordPress; <br/>
 ✔Python - libraries including Keras,Pandas, Requests, NumPy etc.,<br/>
 ✔Hardware skills - Arduino; Node MCU; RaspberryPi<br/>
 ✔Designing skills - ADOBE Ps, Lr, Pr, XD, Sketch ..etc.  <br/>
