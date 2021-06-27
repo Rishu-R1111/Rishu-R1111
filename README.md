@@ -4,7 +4,7 @@
 
 I am RISHU😊, presently a STUDENT at Birla Institues of Technology Mesra.🏛 
 
-I define myself as a Go-to man, Results-driven, Passionate, Transparent, Charismatic, Disciplined, Courageous, Confident, Skillful, Detail-orientated, Out-of-the-box thinker, Consistent, Versatile Leader, Innovative, Ambitious, Persuasive, Self-aware, Observant, Helpful, Able, Creative, Imaginative, Flexible, Organised, , Curious learner, designer and developer.
+I define myself as a Results-driven, Disciplined, Courageous, Confident, Detail-orientated, Out-of-the-box, Ambitious.
 
 ### Ask me About🍒 - <br/>
 
